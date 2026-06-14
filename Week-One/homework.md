@@ -14,8 +14,12 @@ Answer these following questions to the best of your ability, and be ready to an
 
 3) Tell me the output of this Python code
 
+```
+
 name = David
 print(name)
+
+```
 
 What does this output? 
 
