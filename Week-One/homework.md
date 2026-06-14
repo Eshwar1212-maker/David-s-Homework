@@ -1,5 +1,11 @@
 ## HW 
 
+The goal of the homework for our first lesson is to simply understand variables
+
+Watch this YT video if you are confused:
+
+https://www.youtube.com/watch?v=LKFrQXaoSMQ
+
 Answer these following questions to the best of your ability, and be ready to answer it in our next lesson:
 
 1) What is a variable in Python?
@@ -11,5 +17,5 @@ Answer these following questions to the best of your ability, and be ready to an
 name = David
 print(name)
 
-What does this output?
+What does this output? 
 
