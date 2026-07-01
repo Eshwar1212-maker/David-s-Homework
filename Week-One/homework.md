@@ -16,10 +16,23 @@ Answer these following questions to the best of your ability, and be ready to an
 
 ```
 
-name = David
+name = "David"
 print(name)
 
 ```
 
 What does this output? 
 
+
+## Booleans
+
+1) Be able to explain what a boolean is
+
+2) Be able to explain the difference between a string, boolean and number
+
+3) Tell me the output of this code
+
+if 11 > 10:
+   print("11 is greater than 10")
+else:
+   print("11 is less than 10")
